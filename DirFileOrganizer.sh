@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "$(pwd)"
 echo "Enter directory path:"
 read dir
 
